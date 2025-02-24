@@ -18,7 +18,7 @@
 
 - 🔭 Atualmente estudando e aprimorando habilidades em **HTML, CSS, JavaScript e Git/GitHub**
 - 🎯 Buscando minha primeira oportunidade profissional na área de Front-End
-- 📚 Estudante de **Análise e Desenvolvimento de Sistemas** Na Gran Faculdade e **Curso Tecnico De T.i** No IFB
+- 📚 Estudante Na Gran Faculdade e **Curso No Tecnico Do IFB**
 - 💡 Curioso por novas tecnologias e sempre explorando maneiras de melhorar minhas habilidades
 - 🎮 Apaixonado por games e e-sports, especialmente **Overwatch**
 - ✈️ Futuramente, quero expandir minha carreira para **Berlim**
