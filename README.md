@@ -25,7 +25,7 @@
 
 Hi! I'm Nick
 
-Front-End Developer | Tech Enthusiast | Brazil 
+Front-End Developer | Brazil 
 
 I’ve always preferred understanding and solving problems rather than just pointing them out. This mindset, combined with my early curiosity for technology, led me to front-end development — a field where I can merge logic, design, and usability to create real experiences.
 
