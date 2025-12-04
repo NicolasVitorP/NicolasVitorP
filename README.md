@@ -1,40 +1,24 @@
-<h1 align="center">My Frameworks-Libraries and Tools</h1>
+<h1 align="center">My Frameworks, Libraries and Tools</h1>
 
 <div align="center">
 
 [<img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />](https://developer.mozilla.org/docs/Web/JavaScript)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />](https://www.typescriptlang.org/)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />](https://react.dev/)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />](https://developer.mozilla.org/docs/Web/HTML)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />](https://developer.mozilla.org/docs/Web/CSS)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />](https://tailwindcss.com/)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />](https://nodejs.org/)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />](https://git-scm.com/)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />](https://github.com/)
-<img width="12" />
 [<img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />](https://vercel.com/)
 
 </div>
-
-###
-
-###
-
----
 
 <div align="center">
 
 ### Hi! I'm Nick  
 **Front-End Developer | Brazil**
-
 
 I’m passionate about turning ideas into interactive, intuitive, and visually engaging web experiences. From a young age, I’ve loved exploring technology and breaking down complex problems — this curiosity naturally led me to front-end development, where logic meets design and usability.
 
@@ -44,26 +28,8 @@ My mission is simple: build web experiences that are not only functional but als
 
 </div>
 
----
-
-
- 
-  
-
-   <!--Imagem EU--
-  <img align="right" alt="AJ-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
-</div>
-  
-  ##
-  
-
-
-
- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
 </picture>
-  
-</div>
-
