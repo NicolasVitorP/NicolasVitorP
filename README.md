@@ -2,16 +2,18 @@
 
 <div align="center">
 
-[<img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />](https://developer.mozilla.org/docs/Web/JavaScript)
-[<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />](https://www.typescriptlang.org/)
-[<img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />](https://react.dev/)
-[<img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />](https://developer.mozilla.org/docs/Web/HTML)
-[<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />](https://developer.mozilla.org/docs/Web/CSS)
-[<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />](https://tailwindcss.com/)
-[<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />](https://nodejs.org/)
-[<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />](https://react.dev/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />](https://developer.mozilla.org/docs/Web/HTML)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />](https://developer.mozilla.org/docs/Web/CSS)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />](https://tailwindcss.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />](https://nodejs.org/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />](https://github.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />](https://vercel.com/)
+
+</div>
 
 </div>
 
