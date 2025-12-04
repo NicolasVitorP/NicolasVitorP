@@ -29,18 +29,23 @@
 
 ###
 
+---
+
 <div align="center">
-</div>
 
-Hi! I'm Nick 
+### Hi! I'm Nick  
+**Front-End Developer | Brazil**
 
-Front-End Developer | Brazil 
 
 I’m passionate about turning ideas into interactive, intuitive, and visually engaging web experiences. From a young age, I’ve loved exploring technology and breaking down complex problems — this curiosity naturally led me to front-end development, where logic meets design and usability.
 
 I specialize in crafting clean, responsive, and organized interfaces using HTML, CSS/SASS, and JavaScript (with strong object-oriented and problem-solving skills). I work with tools like Git and GitHub, and continuously expand my knowledge in UX principles and consuming REST APIs to integrate dynamic data seamlessly.
 
 My mission is simple: build web experiences that are not only functional but also a delight to use, merging aesthetics, performance, and maintainable code.
+
+</div>
+
+---
 
 
  
