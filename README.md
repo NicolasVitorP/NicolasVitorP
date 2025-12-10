@@ -23,11 +23,11 @@
 **Front-End Developer | Brazil**
 
 </div>
-I’m passionate about turning ideas into interactive, intuitive, and visually engaging web experiences. From a young age, I’ve loved exploring technology and breaking down complex problems — this curiosity naturally led me to front-end development, where logic meets design and usability.
+Sou apaixonado por transformar ideias em experiências web interativas, intuitivas e visualmente atraentes. Desde jovem, sempre gostei de explorar tecnologia e desvendar problemas complexos — essa curiosidade me levou naturalmente ao desenvolvimento front-end, onde a lógica encontra o design e a usabilidade.
 
-I specialize in crafting clean, responsive, and organized interfaces using HTML, CSS/SASS, and JavaScript (with strong object-oriented and problem-solving skills). I work with tools like Git and GitHub, and continuously expand my knowledge in UX principles and consuming REST APIs to integrate dynamic data seamlessly.
+Sou especializado na criação de interfaces limpas, responsivas e organizadas usando HTML, CSS/SASS e JavaScript (com fortes habilidades em programação orientada a objetos e resolução de problemas). Trabalho com ferramentas como Git e GitHub e busco constantemente aprimorar meu conhecimento sobre princípios de UX e o consumo de APIs REST para integrar dados dinâmicos de forma transparente.
 
-My mission is simple: build web experiences that are not only functional but also a delight to use, merging aesthetics, performance, and maintainable code.
+Minha missão é simples: construir experiências web que sejam não apenas funcionais, mas também um prazer de usar, combinando estética, desempenho e código de fácil manutenção.
 
 
 
