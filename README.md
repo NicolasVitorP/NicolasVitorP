@@ -24,7 +24,15 @@
 
 </div>
 
-Minha missão é simples: construir experiências web que sejam não apenas funcionais, mas também um prazer de usar, combinando estética, desempenho e código de fácil manutenção.
+Minha missão fundamental é transcender a mera funcionalidade técnica para construir experiências web verdadeiramente excepcionais. Meu objetivo é duplo: garantir que as soluções desenvolvidas sejam robustas e eficientes, ao mesmo tempo que proporcionam um prazer de usar inquestionável para o usuário final.
+
+Isso se concretiza através da combinação harmoniosa de três pilares inseparáveis. Primeiramente, a estética e a usabilidade (UX/UI) são prioridades máximas, pois um design intuitivo, acessível e visualmente agradável é o que transforma uma ferramenta em uma experiência engajadora. Busco interfaces que sejam limpas, responsivas e que ofereçam feedback tátil e imediato através de microinterações bem pensadas, sempre aderindo aos mais altos padrões de acessibilidade (A11y), para que o prazer de uso seja universal.
+
+Em segundo lugar, o desempenho é tratado como um recurso crítico. Uma experiência prazerosa é instantânea; por isso, dedico-me à otimização rigorosa das métricas Core Web Vitals. Isso inclui garantir um Largest Contentful Paint (LCP) rápido, estabilidade visual com baixo Cumulative Layout Shift (CLS), e uma excelente responsividade interativa (INP). A otimização de assets, a compressão e as estratégias de carregamento progressivo são ferramentas essenciais nesse processo.
+
+Por fim, e como base de tudo, foco no código de fácil manutenção. A excelência na experiência do usuário e no desempenho só é sustentável se o código subjacente for modular, bem documentado, aderente a convenções rigorosas (como BEM para CSS ou padrões de componentes) e coberto por testes automatizados. Adoto princípios de arquitetura limpa para que futuras alterações, upgrades e a expansão de funcionalidades possam ser realizados com confiança, rapidez e baixo custo, garantindo a longevidade e a escalabilidade do produto.
+
+Em resumo, minha missão é ser o elo que conecta a arte do design com a ciência da engenharia de software, entregando produtos que são, ao mesmo tempo, belos, rápidos e sustentáveis.
 
 
 
