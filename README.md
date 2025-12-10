@@ -20,7 +20,7 @@
 <div align="center">
 
 ###
-**Front-End Developer | Brazil**
+**Front-End Developer | Brasil**
 
 </div>
 
