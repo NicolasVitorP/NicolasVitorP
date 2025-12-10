@@ -24,11 +24,13 @@
 
 </div>
 
-Minha missão é ir além da funcionalidade técnica, criando experiências web excepcionais. Busco unir três pilares: UX/UI impecável, com interfaces intuitivas, acessíveis e visualmente agradáveis; desempenho otimizado, garantindo carregamento rápido, estabilidade visual e interatividade fluida; e código sustentável, modular, testado e de fácil manutenção, que permita escalabilidade e longevidade.
+Minha missão é criar experiências web que vão além da funcionalidade, unindo design, performance e código de qualidade. Busco interfaces intuitivas, acessíveis e visualmente agradáveis, que encantem o usuário e ofereçam microinterações e feedback imediato.
 
-Em suma, conecto a arte do design à ciência da engenharia, entregando produtos belos, rápidos e duráveis.
+Ao mesmo tempo, priorizo desempenho extremo, com carregamento rápido, estabilidade visual e interatividade fluida, seguindo boas práticas como otimização de assets e estratégias de carregamento progressivo.
 
+E tudo isso se apoia em código sustentável, modular, bem documentado e testado, que garante escalabilidade, manutenção ágil e longevidade do produto.
 
+Em resumo, conecto a arte do design à ciência da engenharia, entregando produtos que são ao mesmo tempo belos, rápidos e confiáveis, pensados para causar impacto real no usuário.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
