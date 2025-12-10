@@ -23,9 +23,6 @@
 **Front-End Developer | Brazil**
 
 </div>
-Sou apaixonado por transformar ideias em experiências web interativas, intuitivas e visualmente atraentes. Desde jovem, sempre gostei de explorar tecnologia e desvendar problemas complexos — essa curiosidade me levou naturalmente ao desenvolvimento front-end, onde a lógica encontra o design e a usabilidade.
-
-Sou especializado na criação de interfaces limpas, responsivas e organizadas usando HTML, CSS/SASS e JavaScript (com fortes habilidades em programação orientada a objetos e resolução de problemas). Trabalho com ferramentas como Git e GitHub e busco constantemente aprimorar meu conhecimento sobre princípios de UX e o consumo de APIs REST para integrar dados dinâmicos de forma transparente.
 
 Minha missão é simples: construir experiências web que sejam não apenas funcionais, mas também um prazer de usar, combinando estética, desempenho e código de fácil manutenção.
 
