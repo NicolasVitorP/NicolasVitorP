@@ -11,27 +11,32 @@
 [<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />](https://github.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />](https://vercel.com/)
 
-</div>
+<br/>
 
-</div>
+### **Front-End Developer | Brasil**
 
-<div align="center">
+<img width="64" height="64" src="https://user-images.githubusercontent.com/28575885/134047058-652bd587-e9af-4e84-b0cd-e99c2b4ecad7.png">
 
-###
-**Front-End Developer | Brasil**
-
-</div>
-
+<p align="center">
 Minha missão é criar experiências web que vão além da funcionalidade, unindo design, performance e código de qualidade. Busco interfaces intuitivas, acessíveis e visualmente agradáveis, que encantem o usuário e ofereçam microinterações e feedback imediato.
+</p>
 
+<p align="center">
 Ao mesmo tempo, priorizo desempenho extremo, com carregamento rápido, estabilidade visual e interatividade fluida, seguindo boas práticas como otimização de assets e estratégias de carregamento progressivo.
+</p>
 
+<p align="center">
 E tudo isso se apoia em código sustentável, modular, bem documentado e testado, que garante escalabilidade, manutenção ágil e longevidade do produto.
+</p>
 
-Em resumo, conecto a arte do design à ciência da engenharia, entregando produtos que são ao mesmo tempo belos, rápidos e confiáveis, pensados para causar impacto real no usuário.
+**Em resumo, conecto a arte do design à ciência da engenharia, entregando produtos que são ao mesmo tempo belos, rápidos e confiáveis, pensados para causar impacto real no usuário.**
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
