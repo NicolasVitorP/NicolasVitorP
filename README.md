@@ -23,14 +23,14 @@ E tudo isso se apoia em código sustentável, modular, bem documentado e testado
 <br/>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" /></a>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" /></a>
 </p>
 
 <br/>
