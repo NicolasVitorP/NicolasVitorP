@@ -4,7 +4,6 @@
 
 ### **Front-End Developer | Brasil**
 
-<img width="64" height="64" src="https://user-images.githubusercontent.com/28575885/134047058-652bd587-e9af-4e84-b0cd-e99c2b4ecad7.png">
 
 <p align="center">
 Minha missão é criar experiências web que vão além da funcionalidade, unindo design, performance e código de qualidade. Busco interfaces intuitivas, acessíveis e visualmente agradáveis, que encantem o usuário e ofereçam microinterações e feedback imediato.
